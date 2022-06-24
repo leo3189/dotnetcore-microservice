@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Personal Work\\uni_supply\\uni-supply-api\\BasketApi\\BasketApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Personal Work\\uni_supply\\uni-supply-api\\BasketApi\\BasketApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal Work\\uni_supply\\uni-supply-api\\BasketApi\\BasketApi.csproj",
+        "projectName": "BasketApi",
+        "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\BasketApi\\BasketApi.csproj",
+        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\BasketApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj": {
+                "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj"
+              },
+              "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusServiceBus\\EventBusServiceBus.csproj": {
+                "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusServiceBus\\EventBusServiceBus.csproj"
+              },
+              "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj": {
+                "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
+        "projectName": "EventBusRabbitMQ",
+        "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusRabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj": {
+                "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusServiceBus\\EventBusServiceBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusServiceBus\\EventBusServiceBus.csproj",
+        "projectName": "EventBusServiceBus",
+        "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusServiceBus\\EventBusServiceBus.csproj",
+        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBusServiceBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj": {
+                "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj",
+        "projectName": "EventBus",
+        "projectPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\EventBus.csproj",
+        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\EventBus\\EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

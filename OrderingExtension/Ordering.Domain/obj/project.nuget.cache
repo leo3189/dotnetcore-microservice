@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rt/BQmnFMO8ko+RbU0734wyN0ie0RdppPOe3Es9MwBd4b8UB44n/hXX86ZDNOstz5Ksai0OWNhySgP/zdvgWQg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Work\\uni_supply\\uni-supply-api\\OrderingExtension\\Ordering.Domain\\Ordering.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Leo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Leo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Leo\\.nuget\\packages\\system.reflection.typeextensions\\4.7.0\\system.reflection.typeextensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

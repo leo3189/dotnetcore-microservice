@@ -1,0 +1,16 @@
+﻿global using BasketApi.Models;
+global using Microsoft.eShopOnContainers.BuildingBlocks.EventBus.Events;
+global using Microsoft.eShopOnContainers.BuildingBlocks.EventBus.Abstractions;
+global using Microsoft.eShopOnContainers.BuildingBlocks.EventBus;
+global using BasketApi.Commands;
+global using BasketApi.Queries;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.eShopOnContainers.BuildingBlocks.EventBusRabbitMQ;
+global using RabbitMQ.Client;
+global using StackExchange.Redis;
+global using System.Reflection;
+global using System.Text.Json;
+global using BasketApi.IntegrationEvents.Events;
+global using Autofac;
+global using Autofac.Extensions.DependencyInjection;

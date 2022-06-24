@@ -1,0 +1,157 @@
+{
+  "Routes": [
+    // Catalog item endpoint
+    {
+      "DownstreamPathTemplate": "/api/catalog-item",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-item",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/catalog-item/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-item/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/catalog-items-by-type/{typeId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-items-by-type/{typeId}",
+      "UpstreamHttpMethod": [ "GET", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/catalog-items-by-group/{groupId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-items-by-group/{groupId}",
+      "UpstreamHttpMethod": [ "GET", "OPTIONS" ]
+    },
+    // Catalog type endpoint
+    {
+      "DownstreamPathTemplate": "/api/catalog-type",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-type",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/catalog-type/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-type/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE", "OPTIONS" ]
+    },
+    // Catalog group endpoint
+    {
+      "DownstreamPathTemplate": "/api/catalog-group",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-group",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/catalog-group/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-group/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/catalog-group-by-type/{typeId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "UpstreamPathTemplate": "/catalog-group-by-type/{typeId}",
+      "UpstreamHttpMethod": [ "GET", "OPTIONS" ]
+    },
+    // Basket endpoint
+    {
+      "DownstreamPathTemplate": "/api/basket",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7269
+        }
+      ],
+      "UpstreamPathTemplate": "/basket",
+      "UpstreamHttpMethod": [ "POST", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/basket/{customerId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7269
+        }
+      ],
+      "UpstreamPathTemplate": "/basket/{customerId}",
+      "UpstreamHttpMethod": [ "GET", "OPTIONS" ],
+      "SwaggerKey": "basket",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "IdentityApiKey",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/checkout",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7269
+        }
+      ],
+      "UpstreamPathTemplate": "/checkout",
+      "UpstreamHttpMethod": [ "POST", "OPTIONS" ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿global using CatalogApi.Commands;
+global using CatalogApi.Context;
+global using CatalogApi.Models;
+global using CatalogApi.Queries;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using System.Reflection;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.ComponentModel.DataAnnotations;

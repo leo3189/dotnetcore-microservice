@@ -1,0 +1,80 @@
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\appsettings.Development.json
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\appsettings.json
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.exe
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.deps.json
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.runtimeconfig.json
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.pdb
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.csproj.AssemblyReference.cache
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.AssemblyInfoInputs.cache
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.AssemblyInfo.cs
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.csproj.CoreCompileInputs.cache
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\scopedcss\bundle\CatalogApi.styles.css
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.csproj.CopyComplete
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.dll
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\refint\CatalogApi.dll
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.pdb
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.genruntimeconfig.cache
+C:\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\ref\CatalogApi.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Humanizer.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MediatR.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\AutoMapper.dll
+C:\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\appsettings.json
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.exe
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.deps.json
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.runtimeconfig.json
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\CatalogApi.pdb
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Humanizer.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MediatR.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\MySqlConnector.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.csproj.AssemblyReference.cache
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.AssemblyInfoInputs.cache
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.AssemblyInfo.cs
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.csproj.CoreCompileInputs.cache
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\scopedcss\bundle\CatalogApi.styles.css
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.csproj.CopyComplete
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\refint\CatalogApi.dll
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.pdb
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\CatalogApi.genruntimeconfig.cache
+D:\Personal Work\uni_supply\uni-supply-api\CatalogApi\obj\Debug\net6.0\ref\CatalogApi.dll
